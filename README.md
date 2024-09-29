@@ -1,7 +1,7 @@
 # Spark-MLlib-Mongodb
 ## Data 
-The used data is [Room Occupancy detection](https://www.kaggle.com/datasets/kukuroo3/room-occupancy-detection-data-iot-sensor)      
-Data was stored on MongoDB atlas cloud service, as collections.
+The used dataset is [Room Occupancy detection](https://www.kaggle.com/datasets/kukuroo3/room-occupancy-detection-data-iot-sensor)      
+Data is stored as collections within a MongoDB Atlas cloud service.       
 ## Python code 
 ### Liberaries 
 + `pymongo`: for interacting with MongoDB
